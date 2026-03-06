@@ -236,7 +236,7 @@ SitRep is in the architecture phase. The design documented here reflects the tar
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Tasks may also be posted on the [Wasteland Wanted Board](https://wasteland.gastownhall.ai/).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
